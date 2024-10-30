@@ -11,6 +11,7 @@ public class Destination {
         this.price = price;
     }
 
+    //getters
     public String getCode() {
         return code;
     }
